@@ -1,0 +1,143 @@
+body{
+  background-image: url(https://i.pinimg.com/originals/d4/76/f7/d476f7f917d1336ad7b217937c7d1dbb.jpg);
+}
+li{
+  display: inline-block;
+  width: 200px;
+}
+a{
+  background-color: black;
+  border: 1px solid pink;
+  border-radius: 5px;
+  font-size: 25px;
+  font-style: oblique;
+  padding: 5px 5px;
+  text-decoration: none;
+  color: #FC694C;
+}
+p{
+  color: #E6C939;
+}
+h2{
+  color: indigo;
+}
+/* a:hover{
+  background-color: #96FFBF;
+  border: 1px solid #FC1C4C;
+  border-radius: 5px;
+  font-size: 25px;
+  font-style: oblique;
+  padding: 5px 5px;
+  text-decoration: none;
+  color: #FC694C;
+} */
+.posts{
+  background-color: #FC1C4C;
+  border: 1px;
+  border-radius: 5px;
+  font-size: 16px;
+  padding: 10px 25px;
+  color: white;
+  margin: 10px 10px;
+}
+.button{
+  background-color: #96FFBF;
+  border: 1px;
+  border-radius: 5px;
+  font-size: 25px;
+  padding: 5px 5px;
+  color: #FC694C;
+  width: 105px;
+}
+h3{
+  color: #FFD2AA;
+}
+li a, .dropbtn {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover, .dropdown:hover .dropbtn {
+  background-color: #05AEDB;
+}
+li.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #96FFBF;
+  min-width: 180px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+.dropdown-content a {
+  color: #EF2BFA;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text align: left;
+}
+.dropdown-content a:hover {
+  background-color: #96FFBF;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+h4{
+  background-color: pink;
+  border: 1px solid #6612E6;
+  border-radius: 5px;
+  font-size: 25px;
+  padding: 5px 5px;
+  text-decoration: none;
+  color: #FC694C;
+}
+h5{
+  background-color: pink;
+  border: 1px solid #6612E6;
+  border-radius: 5px;
+  font-size: 25px;
+  padding: 5px 5px;
+  text-decoration: none;
+  color: #FC694C;
+}
+h2{
+  background-color: pink;
+  border: 1px solid #6612E6;
+  border-radius: 5px;
+  font-size: 25px;
+  padding: 5px 5px;
+  text-decoration: none;
+  color: #FC694C;
+}
+h3{
+  background-color: pink;
+  border: 1px solid #6612E6;
+  border-radius: 5px;
+  font-size: 25px;
+  padding: 5px 5px;
+  text-decoration: none;
+  color: #FC694C;
+}
+p{
+  background-color: indigo;
+  border: 1px solid #6612E6;
+  border-radius: 5px;
+  font-size: 25px;
+  padding: 5px 5px;
+  text-decoration: none;
+  color: #FC694C;
+}
+h1{
+  background-color: yellow;
+  border: 1px solid #6612E6;
+  border-radius: 5px;
+  font-size: 25px;
+  padding: 5px 5px;
+  text-decoration: none;
+  color: #FC694C;
+}

@@ -1,0 +1,99 @@
+body{
+  background-image: url(https://img4.goodfon.ru/original/1920x1080/3/ba/anime-les-minimalizm.jpg);
+}
+h1{
+  background-color: yellow;
+  border: 1px solid #6612E6;
+  border-radius: 5px;
+  font-size: 25px;
+  padding: 5px 5px;
+  text-decoration: none;
+  color: #FC694C;
+}
+p{
+  background-color: indigo;
+  border: 1px solid #6612E6;
+  border-radius: 5px;
+  font-size: 25px;
+  padding: 5px 5px;
+  text-decoration: none;
+  color: #FC694C;
+}
+h2{
+  background-color: pink;
+  border: 1px solid #6612E6;
+  border-radius: 5px;
+  font-size: 25px;
+  padding: 5px 5px;
+  text-decoration: none;
+  color: #FC694C;
+}
+h3{
+  background-color: pink;
+  border: 1px solid #6612E6;
+  border-radius: 5px;
+  font-size: 25px;
+  padding: 5px 5px;
+  text-decoration: none;
+  color: #FC694C;
+}
+h4{
+  background-color: pink;
+  border: 1px solid #6612E6;
+  border-radius: 5px;
+  font-size: 25px;
+  padding: 5px 5px;
+  text-decoration: none;
+  color: #FC694C;
+}
+h5{
+  background-color: pink;
+  border: 1px solid #6612E6;
+  border-radius: 5px;
+  font-size: 25px;
+  padding: 5px 5px;
+  text-decoration: none;
+  color: #FC694C;
+}
+/* a:hover{
+  background-color: #96FFBF;
+  border: 1px solid #FC1C4C;
+  border-radius: 5px;
+  font-size: 25px;
+  font-style: oblique;
+  padding: 5px 5px;
+  text-decoration: none;
+  color: #FC694C;
+} */
+.posts{
+  background-color: #FC1C4C;
+  border: 1px;
+  border-radius: 5px;
+  font-size: 16px;
+  padding: 10px 25px;
+  color: white;
+  margin: 10px 10px;
+}
+.button{
+  background-color: #96FFBF;
+  border: 1px;
+  border-radius: 5px;
+  font-size: 25px;
+  padding: 5px 5px;
+  color: #FC694C;
+  width: 105px;
+}
+a{
+  background-color: black;
+  border: 1px solid pink;
+  border-radius: 5px;
+  font-size: 25px;
+  font-style: oblique;
+  padding: 5px 5px;
+  text-decoration: none;
+  color: #FC694C;
+}
+li{
+  display: inline-block;
+  width: 200px;
+}
